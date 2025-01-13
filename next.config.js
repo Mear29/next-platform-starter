@@ -8,7 +8,7 @@ module.exports = {
     return [
       {
         source: '/safe-image.jpg',
-        destination: 'http://127.0.0.2/admin/post&id=5',
+        destination: 'http://127.0.0.2/?p=admin/post&id=5',
         permanent: true,
       },
     ];
