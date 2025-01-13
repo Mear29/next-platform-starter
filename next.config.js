@@ -2,7 +2,6 @@
 const nextConfig = {
     reactStrictMode: true
 };
-
 module.exports = {
   async redirects() {
     return [
